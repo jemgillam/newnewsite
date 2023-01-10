@@ -36,7 +36,7 @@ the
 Contributions from the community include improvements to QueryBuilder, better
 JWT support and bug fixes for types.
 
-![Thank you]({{ site.url }})/assets/thanks.png" />
+![Thank you]({{ site.url }}/assets/thanks.png)
 
 ### Thank you for your sponsorship
 
