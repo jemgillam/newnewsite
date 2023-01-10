@@ -17,7 +17,7 @@ Graph*i*QL, visible by using the `--allow-explain` flag. In Graph*i*QL you'll
 see a new section in your return statement, plus new panel on the right which
 will show executed query in a readable format.
 
-![Demo of the new GraphiQL Explain feature in PostGraphile]({{ site.url }}/assets/graphiqlexplainbutton.png)
+![Demo of the new GraphiQL Explain feature in PostGraphile]({{ site.url }}/assets/images/graphiqlexplainbutton.png)
 
 ### Smart Tags
 
@@ -36,7 +36,7 @@ the
 Contributions from the community include improvements to QueryBuilder, better
 JWT support and bug fixes for types.
 
-![Thank you]({{ site.url }}/assets/thanks.png)
+![Thank you]({{ site.url }}/assets/images/thanks.png)
 
 ### Thank you for your sponsorship
 
