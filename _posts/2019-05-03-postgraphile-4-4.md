@@ -43,7 +43,7 @@ specification. They enable your application to request a certain query be
 performed whenever the specified event occurs on the GraphQL server, for example
 `emailReceived`, `userStatusChanged`, `notificationAdded`, or `messageArchived`.
 
-![Real-time subscriptions](/assets/images/undraw_realtime.png)
+![Real-time subscriptions]({{site.url}}/assets/images/undraw_realtime.png)
 
 To enable this real-time feature, a long running connection is required with the
 server. In PostGraphile we achieve this via websockets, the de-facto standard
@@ -71,9 +71,9 @@ and it becomes live, as in the following example
 ([available on GitHub](https://github.com/graphile/livesotope)) showing
 real-time points rankings of fictional players:
 
-![Changing a query to a live query](/assets/images/query2subscription.png)
+![Changing a query to a live query]({{site.url}}/assets/images/query2subscription.png)
 
-![Demo of live query](/assets/images/live_demo_rankings.gif)
+![Demo of live query]({{site.url}}/assets/images/live_demo_rankings.gif)
 
 Live queries are an incredibly powerful tool for frontend developers, as it
 means they don’t need to worry about monitoring for changes in the data — they
@@ -110,7 +110,7 @@ Huge thanks to the 70 individuals and companies already sponsoring PostGraphile!
 
 [Click here to find out more about why and how you should sponsor PostGraphile development.](/sponsor/)
 
-![Thank you](/assets/images/thanks.png)
+![Thank you]({{site.url}}/assets/images/thanks.png)
 
 
 ### Full release notes
