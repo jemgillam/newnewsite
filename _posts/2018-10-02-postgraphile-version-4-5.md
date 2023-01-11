@@ -2,7 +2,7 @@
 layout: post
 title: PostGraphile Releases Version 4.5
 date: 2019-11-24 01:00:00
-tags: announcements, postgraphil
+tags: announcements, postgraphile
 ---
 
 <p class='intro'>
