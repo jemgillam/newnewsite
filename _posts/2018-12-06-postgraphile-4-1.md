@@ -38,7 +38,7 @@ performance gains.
 
 ### Big contributions from the Graphile community
 
-![PostGraphile thanks our contributors](/assets/images/undraw_developer_activity.png)
+![PostGraphile thanks our contributors]({{site.url}}/assets/images/undraw_developer_activity.png)
 
 Version 4.1 also includes a big update from frequent contributor
 [@mattbretl](https://github.com/mattbretl), who has introduced support for a
@@ -62,4 +62,4 @@ Huge thanks to the 60 individuals and companies already sponsoring PostGraphile!
 
 <strong>[Click here to sponsor PostGraphile development now.](/sponsor/)</strong>
 
-![PostGraphile thanks the community](/assets/images/thanks.png)
+![PostGraphile thanks the community]({{site.url}}/assets/images/thanks.png)
