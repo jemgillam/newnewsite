@@ -7,8 +7,10 @@ tags: community, interview
 
 This week, Jem took part in the [GitHub ReadME project](https://github.com/readme), an endevour to collect stories from open source maintainers and amplify their voices to the wider developer community. The project contains many articles, educatonal material and podcasts all focused on the developer commuinity.
 
-[Click through to the ReadME Project]([https://github.com/readme/stories/benjie-gillam](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/)) to read Benjie's history of software development, starting as a teenager at the turn of the millennium with his own Linux mail server in his bedroom. As he entered the world of employment, he realised he much preferred the freedom of running his own business gave him, and eventually incorporated Graphile with his wife Jem in 2019. Together, they work on Graphile's open source projects and are seeking funding through GitHub Sponsors and Patreon. In this article, Benjie discusses the ins-and-outs of running an open source company with his wife, while building a supportive community, and sheds light on how other maintainers may start to take their passion project full time. 
+[Click through to the ReadME Project](https://github.com/readme/stories/benjie-gillam](https://github.blog/2022-06-30-what-to-do-when-your-open-source-project-becomes-a-community/) to read a panel interview with Jem alongside [Chrissy LeMaire](https://tech.lgbt/@cl), the creator and maintainer of [dbatools](https://dbatools.io/), and [Fred Schott](http://fredkschott.com/about/), the co-creator of [Astro](https://astro.build/).
 
-![Benjie and Jem clink glasses full of lemonade]({{site.url}}/assets/images/jem-and-benjie.jpg)
+In this article, Jem discusses how they helped to build the community around Graphile, beginning with the early days of PostGraphile and the growing realisation that users wanted an online space to come together to craft plugins and discuss different approaches of Postgres and GraphQL. When the first donations to the project began coming in, they realised it was time to become more intentional in their approach to community building and began drawing inspiration from other open source projects. 
+
+![Benjie and Jem pose in front of a banner showcasing PostGraphile]({{site.url}}/assets/images/benjie-and-jem-at-fosdem.jpg)
 
 ![Thank you to our sponsors]({{site.url}}/assets/images/thanks.png)
