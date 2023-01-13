@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Spec News - A New GraphQL Podacast
-date: 2022/06-07 01:00:00
+title: GraphQL Radio Interviews Benjie
+date: 2022-07-14 01:00:00
 tags: podcast, graphql
 ---
 
