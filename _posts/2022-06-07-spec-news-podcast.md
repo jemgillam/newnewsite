@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spec News - A new GraphQL
+title: Spec News - A New GraphQL Podacast
 date: 2022/06-07 01:00:00
 tags: announcements, podcast, graphql
 ---
