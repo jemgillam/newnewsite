@@ -5,7 +5,7 @@ date: 2019-11-04 01:00:00 -0000
 tags: conference, talks
 ---
 
-![The ReactiveConf logo is a green planet with rings](reactiveconf.svg)
+![The ReactiveConf logo is a green planet with rings]({{site.url}}/assets/images/reactiveconf.svg)
 
 Benjie and Jem travelled to Prague for
 [ReactiveConf](https://reactiveconf.com/) where Benjie gave the keynote on
