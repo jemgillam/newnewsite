@@ -19,4 +19,4 @@ if you are going so we can arrange to meet!
 
 [More details on FOSDEM on their website](https://fosdem.org/)
 
-![Benjie and Jem stand in front of a PostGraphile banner](benjie-and-jem-at-fosdem.jpg)
+![Benjie and Jem stand in front of a PostGraphile banner]({{site.url}}/assets/images/benjie-and-jem-at-fosdem.jpg)
