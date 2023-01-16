@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Reactive Conf"
+date: 2019-11-04 01:00:00 -0000
+tags: conference, talks
+---
+
+Benjie and Jem travelled to Prague for
+[Reactive Conf](https://reactiveconf.com/) where Benjie gave the keynote on
+increasing velocity with GraphQL and Postgres. The talk focused on how the two
+tools can pair beautifully, leading to massively increased software development
+and delivery speed, faster APIs, fewer bugs and ultimately enabling a greater
+focus on delivering value on the frontend rather than maintaining three
+different layers of data models and associated logic on the backend.
+
+[View the talk on YouTube here](https://www.youtube.com/watch?v=BNLcHlMn5X4)
