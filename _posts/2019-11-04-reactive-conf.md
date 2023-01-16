@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Reactive Conf"
+title: "ReactiveConf - increasing velocity with GraphQL and Postgres"
 date: 2019-11-04 01:00:00 -0000
 tags: conference, talks
 ---
 
+![The ReactiveConf logo is a green planet with rings](reactiveconf.svg)
+
 Benjie and Jem travelled to Prague for
-[Reactive Conf](https://reactiveconf.com/) where Benjie gave the keynote on
+[ReactiveConf](https://reactiveconf.com/) where Benjie gave the keynote on
 increasing velocity with GraphQL and Postgres. The talk focused on how the two
 tools can pair beautifully, leading to massively increased software development
 and delivery speed, faster APIs, fewer bugs and ultimately enabling a greater

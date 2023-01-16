@@ -5,6 +5,8 @@ date: 2018-10-23 01:00:00 -0000
 tags: conference, talks
 ---
 
+![The GraphQL Finland logo]({{site.url}}/assets/images/graphqlfinland.svg)
+
 Benjie travelled to [GraphQL Finland](https://graphql-finland.fi/2018/) to give
 a talk on Database-Driven GraphQL Development. Learn how a database-centric
 approach to GraphQL API development can give your engineers more time to focus
