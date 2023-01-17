@@ -2,7 +2,7 @@
 layout: post
 title: PostGraphile Releases Version 4.4 - Real-time!
 date: 2019-05-03 01:00:00
-tags: announcements, postgraphile
+tags: announcements, releases, postgraphile
 ---
 
 <p class='intro'>

@@ -2,7 +2,7 @@
 layout: post
 title: PostGraphile Launches Version 4.0
 date: 2018-10-02 01:00:00
-tags: announcements, postgraphile
+tags: announcements, releases, postgraphile
 ---
 
 **The original GraphQL API for PostgreSQL: now vastly more performant,

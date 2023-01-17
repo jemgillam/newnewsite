@@ -2,7 +2,7 @@
 layout: post
 title: PostGraphile Releases Version 4.1 - Better Webpackability!
 date: 2018-12-06 01:00:00
-tags: announcements, postgraphile
+tags: announcements, releases, postgraphile
 ---
 
 ### The original GraphQL API for PostgreSQL: now with improved Lambda support
